@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:4000"
+const API_URL = "https://lasso-lace.onrender.com"
 
 function setAccessToken(token) {
   localStorage.setItem('token', token)
